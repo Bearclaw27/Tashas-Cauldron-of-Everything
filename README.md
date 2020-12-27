@@ -1,7 +1,7 @@
-# repositoryname
-additional content to extend [Aurora](https://aurorabuilder.com/), by yourname
+# Tasha's Cauldron of Everything
+additional content to extend [Aurora](https://aurorabuilder.com/), by Bearclaw27
 
-index url: https://raw.githubusercontent.com/yourgithubaccount/repositoryname/master/user-yourname.index
+index url: https://raw.githubusercontent.com/Bearclaw27/Tashas-Cauldron-of-Everything/master/user-Bearclaw27.index
 
 ---
 
